@@ -1,6 +1,6 @@
 safe: true
-source: <your pages repo>
+source: /
 destination: <the build dir>
 lsi: false
 pygments: true
-baseurl: /jekyll_demo
+baseurl: /
